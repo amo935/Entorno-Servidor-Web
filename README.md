@@ -38,7 +38,7 @@ Desarrollo-Web-Entorno-Servidor/
 
 Aprender a desarrollar aplicaciones web dinámicas mediante programación del lado del servidor, trabajando con PHP y bases de datos.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autora
 
 - **Nombre:** Águeda Manzaneda
 - **Ciclo:** Desarrollo de Aplicaciones Web (DAW)
