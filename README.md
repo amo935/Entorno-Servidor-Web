@@ -45,4 +45,4 @@ Aprender a desarrollar aplicaciones web dinámicas mediante programación del la
 - **Curso académico:** 2026/2027
 
 ---
-⭐ ######Este es un repositorio con fines educativos.
+⭐ Este es un repositorio con fines educativos.
