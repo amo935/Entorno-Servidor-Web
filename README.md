@@ -31,7 +31,6 @@ Desarrollo-Web-Entorno-Servidor/
 ├── Ejercicios/
 ├── Practicas/
 └── Proyectos/
-```
 
 ## 🎯 Objetivo
 
