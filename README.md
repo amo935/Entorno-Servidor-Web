@@ -25,12 +25,14 @@ En este repositorio se almacenarán los apuntes, ejercicios y prácticas realiza
 
 ## 📂 Estructura del repositorio
 
+```text
 Desarrollo-Web-Entorno-Servidor/
 │
 ├── README.md
 ├── Ejercicios/
 ├── Practicas/
 └── Proyectos/
+```
 
 ## 🎯 Objetivo
 
